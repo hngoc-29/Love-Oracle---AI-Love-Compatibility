@@ -1,0 +1,22 @@
+[
+  { "name": "Thạch Anh Hồng",        "hex": "#F7CAC9", "meaning": "Tình yêu vô điều kiện và sự trìu mến dịu dàng" },
+  { "name": "Tím Thiên Đường",        "hex": "#9B59B6", "meaning": "Bí ẩn, chiều sâu và kết nối tâm linh" },
+  { "name": "Sapphire Đêm Khuya",     "hex": "#1A1F5E", "meaning": "Sự tận tụy vĩnh cửu và lòng tin không lay chuyển" },
+  { "name": "Vàng Bình Minh",         "hex": "#FFD700", "meaning": "Niềm vui rực rỡ và hạnh phúc dồi dào" },
+  { "name": "Hồng Than Đỏ",           "hex": "#E8476A", "meaning": "Ngọn lửa đam mê và sức hút không thể phủ nhận" },
+  { "name": "Xanh Đại Dương",         "hex": "#20B2AA", "meaning": "Chiều sâu bình yên và sự rõ ràng về cảm xúc" },
+  { "name": "Oải Hương Hoàng Hôn",    "hex": "#B39BC8", "meaning": "Tình yêu mộng mơ và sợi dây gắn kết thanh thoát" },
+  { "name": "Đỏ Rạng Đông",           "hex": "#DC143C", "meaning": "Tình yêu mãnh liệt và những trái tim dũng cảm" },
+  { "name": "Ngọc Trai Ánh Trăng",    "hex": "#E8E8E8", "meaning": "Ý định thuần khiết và lòng tốt dịu dàng" },
+  { "name": "Ngọc Bích Huyền Bí",     "hex": "#00A86B", "meaning": "Sự phát triển, đổi mới và tình yêu nở rộ" },
+  { "name": "Hổ Phách Lửa Mặt Trời",  "hex": "#FFBF00", "meaning": "Hơi ấm, sức sống và năng lượng rực rỡ" },
+  { "name": "Chàm Tinh Vân",          "hex": "#4B0082", "meaning": "Sự hòa hợp vũ trụ và sự thấu hiểu hiếm có" },
+  { "name": "San Hô Hồng Nhạt",       "hex": "#FF7F7F", "meaning": "Tình cảm vui tươi và sự dịu dàng ngọt ngào" },
+  { "name": "Bạc Bụi Sao",            "hex": "#C0C0C0", "meaning": "Vẻ thanh lịch vượt thời gian và sức mạnh trầm lặng" },
+  { "name": "Ngọc Lam Huyền Bí",      "hex": "#40E0D0", "meaning": "Sự rõ ràng của cảm xúc và những trái tim rộng mở" },
+  { "name": "Mận Nhung",              "hex": "#8B0057", "meaning": "Đam mê sâu thẳm và sức hút mê đắm" },
+  { "name": "Đào Bình Minh",          "hex": "#FFCBA4", "meaning": "Những khởi đầu mới và lời hứa ấm áp" },
+  { "name": "Ngọc Lục Bảo Rừng Xanh", "hex": "#228B22", "meaning": "Lòng trung thành bền vững và sự hòa hợp tự nhiên" },
+  { "name": "Ngọn Lửa Đồng",          "hex": "#CB6D51", "meaning": "Đam mê mộc mạc và tình yêu gắn bó với đất" },
+  { "name": "Thiên Thanh Mộng Mơ",    "hex": "#007BA7", "meaning": "Hy vọng rộng lớn và sự tận tụy trong sáng" }
+]
